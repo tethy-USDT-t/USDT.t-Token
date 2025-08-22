@@ -8,7 +8,7 @@
 - **Transparência:** Todo o código do contrato inteligente está disponível publicamente para auditoria.
 
 **Contrato Inteligente:**
-- **Endereço do Contrato (BSC):** `0x1234567890abcdef1234567890abcdef12345678` (Substitua este endereço pelo endereço real do seu contrato)
-- **Verificar no BSCScan:** [Link para o Contrato no BSCScan](https://bscscan.com/token/0x1234567890abcdef1234567890abcdef12345678)
+- **Endereço do Contrato (BSC):** `0xf4A2328c370faA41Ab451CDEF9e12277773B45bb` 
+- **Verificar no BSCScan:** [Link para o Contrato no BSCScan](https://bscscan.com/address/0xf4a2328c370faa41ab451cdef9e12277773b45bb#code)
 
 Visite nosso [website](https://www.solidusgrupo.com) para mais informações ou confira o [Whitepaper](link_para_whitepaper) para detalhes técnicos.
